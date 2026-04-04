@@ -18,7 +18,7 @@
 
 ## 👋◼️ About Me
 
-- ◻️ Electronics Engineering undergrad at **DUET, Karachi**
+- ◻️ Electronic Engineering undergrad at **DUET, Karachi**
 - 📼 Currently building an **autonomous navigation bot** for my FYP | AprilTag detection, Flask backend, deployed on Raspberry Pi
 - ✨ Learning backend development, data analytics and everything in between
 

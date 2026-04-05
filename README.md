@@ -1,79 +1,67 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4a1942&height=200&section=header&text=Anshara%20Shamim&fontSize=50&fontColor=f5e6d3&fontAlignY=35&desc=Python%20Developer%20%7C%20Backend%20%C2%B7%20Data%20Analytics&descAlignY=55&descColor=e8b4b8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8a48f&height=200&section=header&text=Anshara%20Shamim&fontSize=50&fontColor=3e2723&fontAlignY=35&desc=Python%20Developer%20%7C%20Backend%20%7C%20Data%20Analytics&descAlignY=55&descColor=5d4037)
+
+### < hello world />
+
+### ☕ *a calm little corner of code*
 
 </div>
 
----
+## 🌿 About Me
 
-<div align="center">
+* ◻️ **Electronic** Engineering undergrad at **DUET, Karachi**
+* 🤖 Building an **Autonomous Navigation Bot (FYP)**
+  *(AprilTag detection · Flask backend · Raspberry Pi)*
+* 📊 Exploring backend systems, data, and intelligent workflows
+* 🌙 Most productive at night with music and coffee nearby
 
-### `< hello world />`
+## 🧸 Tech Stack
 
-*Turning caffeine and curiosity into backends and data pipelines*
+### 🪶 Languages
 
-</div>
+![Python](https://img.shields.io/badge/Python-8d6e63?style=for-the-badge&logo=python&logoColor=f5e6d3&labelColor=d7ccc8)
+![JavaScript](https://img.shields.io/badge/JavaScript-8d6e63?style=for-the-badge&logo=javascript&logoColor=f5e6d3&labelColor=d7ccc8)
+![HTML5](https://img.shields.io/badge/HTML5-8d6e63?style=for-the-badge&logo=html5&logoColor=f5e6d3&labelColor=d7ccc8)
+![CSS3](https://img.shields.io/badge/CSS3-8d6e63?style=for-the-badge&logo=css3&logoColor=f5e6d3&labelColor=d7ccc8)
 
----
+### 🍂 Backend
 
-## 👋◼️ About Me
+![Flask](https://img.shields.io/badge/Flask-a1887f?style=for-the-badge&logo=flask&logoColor=f5e6d3&labelColor=efebe9)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-a1887f?style=for-the-badge&logo=python&logoColor=f5e6d3&labelColor=efebe9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a1887f?style=for-the-badge&logo=postgresql&logoColor=f5e6d3&labelColor=efebe9)
+![SQLite](https://img.shields.io/badge/SQLite-a1887f?style=for-the-badge&logo=sqlite&logoColor=f5e6d3&labelColor=efebe9)
 
-- ◻️ Electronic Engineering undergrad at **DUET, Karachi**
-- 📼 Currently building an **autonomous navigation bot** for my FYP | AprilTag detection, Flask backend, deployed on Raspberry Pi
-- ✨ Learning backend development, data analytics and everything in between
+### 📖 Data & ML
 
----
+![Pandas](https://img.shields.io/badge/Pandas-bcaaa4?style=for-the-badge&logo=pandas&logoColor=3e2723&labelColor=efebe9)
+![NumPy](https://img.shields.io/badge/NumPy-bcaaa4?style=for-the-badge&logo=numpy&logoColor=3e2723&labelColor=efebe9)
+![Seaborn](https://img.shields.io/badge/Seaborn-bcaaa4?style=for-the-badge&logo=python&logoColor=3e2723&labelColor=efebe9)
+![Jupyter](https://img.shields.io/badge/Jupyter-bcaaa4?style=for-the-badge&logo=jupyter&logoColor=3e2723&labelColor=efebe9)
 
-## 🛠️🌷 Tech Stack
+### 🪵 Tools & Platforms
 
-**Languages**
+![Git](https://img.shields.io/badge/Git-8d6e63?style=for-the-badge&logo=git&logoColor=f5e6d3&labelColor=d7ccc8)
+![Linux](https://img.shields.io/badge/Linux-8d6e63?style=for-the-badge&logo=linux&logoColor=f5e6d3&labelColor=d7ccc8)
+![Railway](https://img.shields.io/badge/Railway-8d6e63?style=for-the-badge&logo=railway&logoColor=f5e6d3&labelColor=d7ccc8)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8d6e63?style=for-the-badge&logo=raspberrypi&logoColor=f5e6d3&labelColor=d7ccc8)
 
-![Python](https://img.shields.io/badge/Python-6b3050?style=for-the-badge&logo=python&logoColor=f5e6d3)
-![JavaScript](https://img.shields.io/badge/JavaScript-6b3050?style=for-the-badge&logo=javascript&logoColor=f5e6d3)
-![HTML5](https://img.shields.io/badge/HTML5-6b3050?style=for-the-badge&logo=html5&logoColor=f5e6d3)
-![CSS3](https://img.shields.io/badge/CSS3-6b3050?style=for-the-badge&logo=css3&logoColor=f5e6d3)
-
-**Backend**
-
-![Flask](https://img.shields.io/badge/Flask-6b3050?style=for-the-badge&logo=flask&logoColor=f5e6d3)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6b3050?style=for-the-badge&logo=python&logoColor=f5e6d3)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6b3050?style=for-the-badge&logo=postgresql&logoColor=f5e6d3)
-![SQLite](https://img.shields.io/badge/SQLite-6b3050?style=for-the-badge&logo=sqlite&logoColor=f5e6d3)
-
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-6b3050?style=for-the-badge&logo=pandas&logoColor=f5e6d3)
-![NumPy](https://img.shields.io/badge/NumPy-6b3050?style=for-the-badge&logo=numpy&logoColor=f5e6d3)
-![Seaborn](https://img.shields.io/badge/Seaborn-6b3050?style=for-the-badge&logo=python&logoColor=f5e6d3)
-![Jupyter](https://img.shields.io/badge/Jupyter-6b3050?style=for-the-badge&logo=jupyter&logoColor=f5e6d3)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-6b3050?style=for-the-badge&logo=git&logoColor=f5e6d3)
-![Linux](https://img.shields.io/badge/Linux-6b3050?style=for-the-badge&logo=linux&logoColor=f5e6d3)
-![Railway](https://img.shields.io/badge/Railway-6b3050?style=for-the-badge&logo=railway&logoColor=f5e6d3)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-6b3050?style=for-the-badge&logo=raspberrypi&logoColor=f5e6d3)
-
----
-
-## 📀✨ Projects
+## 📚 Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [grafx](https://github.com/Anshara-Shamim/grafx) | Full-stack interactive graph builder IV curves, Bode plots, best fit line | Flask · SQLAlchemy · PostgreSQL · Chart.js |
-| [Autonomous Navigation Bot](https://github.com/Anshara-Shamim) | FYP | AprilTag detection, Flask backend, voice navigation, deployed on Raspberry Pi | Python · Flask · SQLite · OpenCV · Vosk |
-| [smart-traffic-control](https://github.com/Anshara-Shamim/smart-traffic-control) | Traffic control simulation with real-time lane occupancy detection | PyTorch · YOLOv5 · OpenCV · NumPy |
-| [customer-sales-dashboard](https://github.com/Anshara-Shamim/customer-sales-dashboard) | Superstore sales data analysis and visualization | Python · Pandas · Seaborn · Jupyter |
-| [vector-garden](https://github.com/Anshara-Shamim/vector-garden) | Dark interactive garden | firefly torch, hidden flowers in darkness | Vanilla JS · HTML5 Canvas |
-| [weather-app](https://github.com/Anshara-Shamim/weather-app) | Pixel Windows 98 themed live weather app | HTML · CSS · JS · OpenWeatherMap API |
-| [snake-game](https://github.com/Anshara-Shamim/snake-game) | Classic snake game with pastel theme and sound effects | Python · Tkinter |
-
----
+| [grafx](https://github.com/Anshara-Shamim/grafx) | Interactive graph builder (IV curves, Bode plots) | Flask · PostgreSQL · Chart.js |
+| [Autonomous Navigation Bot](https://github.com/Anshara-Shamim) | Final Year Project | Python · OpenCV · Flask · Raspberry Pi |
+| [smart-traffic-control](https://github.com/Anshara-Shamim/smart-traffic-control) | Traffic simulation with detection | PyTorch · YOLOv5 |
+| [customer-sales-dashboard](https://github.com/Anshara-Shamim/customer-sales-dashboard) | Sales data analysis | Pandas · Seaborn |
+| [vector-garden](https://github.com/Anshara-Shamim/vector-garden) | Interactive dark garden | JS · Canvas |
+| [weather-app](https://github.com/Anshara-Shamim/weather-app) | Retro pixel weather app | HTML · CSS · JS |
+| [snake-game](https://github.com/Anshara-Shamim/snake-game) | Classic snake (soft UI) | Python · Tkinter |
 
 <div align="center">
 
-*thanks for visiting my little corner of github* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d8a48f&height=100&section=footer"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4a1942&height=100&section=footer)
+☕ *stay a while the code's still brewing*
 
 </div>

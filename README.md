@@ -60,7 +60,7 @@
 | [weather-app](https://github.com/Anshara-Shamim/weather-app) | Retro pixel Windows 98 weather app | Beginner | HTML · CSS · JS · OpenWeatherMap API |
 | [vector-garden](https://github.com/Anshara-Shamim/vector-garden) | Dark interactive garden — firefly torch, hidden flowers | Intermediate | Vanilla JS · HTML5 Canvas · ES6 Modules |
 
-### Backend Progression
+### Backend 
 
 | Project | Description | Level | Stack |
 |---|---|---|---|
@@ -72,17 +72,18 @@
 |---|---|---|---|
 | [customer-sales-dashboard](https://github.com/Anshara-Shamim/customer-sales-dashboard) | Superstore sales data analysis and visualization | Beginner | Python · Pandas · Seaborn · Jupyter |
 
+### Final Year Project
+
+| Project | Description | Level | Stack |
+|---|---|---|---|
+| [Autonomous Navigation Bot](https://github.com/Anshara-Shamim) | AprilTag detection, Flask backend, voice navigation, deployed on Raspberry Pi | Advanced | Python · Flask · SQLite · OpenCV · Vosk |
+
 ### C Language
 
 | Project | Description | Level | Stack |
 |---|---|---|---|
 | [c-language](https://github.com/Anshara-Shamim/c-language) | Beginner to intermediate programs · console I/O, GUI, games, stopwatch | Beginner | C · Win32 |
 
-### Final Year Project
-
-| Project | Description | Level | Stack |
-|---|---|---|---|
-| [Autonomous Navigation Bot](https://github.com/Anshara-Shamim) | AprilTag detection, Flask backend, voice navigation, deployed on Raspberry Pi | Advanced | Python · Flask · SQLite · OpenCV · Vosk |
 
 <div align="center">
 

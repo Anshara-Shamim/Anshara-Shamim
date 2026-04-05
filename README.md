@@ -6,10 +6,10 @@
 
 </div>
 
-### 🌿 About Me
+### ☕ About Me
 
-* ◻️ **Electronic** Engineering undergrad at **DUET, Karachi**
-* 🤖 Building an **Autonomous Navigation Bot (FYP)**
+* **Electronic** Engineering undergrad at **DUET, Karachi**
+* Building an **Autonomous Navigation Bot (FYP)**
   *(AprilTag detection · Flask backend · Raspberry Pi)*
 
 ### 🧸 Tech Stack

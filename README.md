@@ -11,8 +11,6 @@
 * ◻️ **Electronic** Engineering undergrad at **DUET, Karachi**
 * 🤖 Building an **Autonomous Navigation Bot (FYP)**
   *(AprilTag detection · Flask backend · Raspberry Pi)*
-* 📊 Exploring backend systems, data, and intelligent workflows
-* 🌙 Most productive at night with music and coffee nearby
 
 ### 🧸 Tech Stack
 

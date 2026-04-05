@@ -56,7 +56,7 @@
 | Project | Description | Level | Stack |
 |---|---|---|---|
 | [weather-app](https://github.com/Anshara-Shamim/weather-app) | Retro pixel Windows 98 weather app | Beginner | HTML · CSS · JS · OpenWeatherMap API |
-| [vector-garden](https://github.com/Anshara-Shamim/vector-garden) | Dark interactive garden — firefly torch, hidden flowers | Intermediate | Vanilla JS · HTML5 Canvas · ES6 Modules |
+| [vector-garden](https://github.com/Anshara-Shamim/vector-garden) | Dark interactive garden firefly torch, hidden flowers, butterflies | Intermediate | Vanilla JS · HTML5 Canvas · ES6 Modules |
 
 ### Backend 
 

@@ -40,6 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-8d6e63?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=6d4c41)
 ![Linux](https://img.shields.io/badge/Linux-8d6e63?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=6d4c41)
 ![Railway](https://img.shields.io/badge/Railway-8d6e63?style=for-the-badge&logo=railway&logoColor=ffffff&labelColor=6d4c41)
+![Vercel](https://img.shields.io/badge/Vercel-8d6e63?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=6d4c41)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8d6e63?style=for-the-badge&logo=raspberrypi&logoColor=ffffff&labelColor=6d4c41)
 
 ### ☕ Projects
@@ -69,6 +70,7 @@
 | Project | Description | Level | Stack |
 |---|---|---|---|
 | [customer-sales-dashboard](https://github.com/Anshara-Shamim/customer-sales-dashboard) | Superstore sales data analysis and visualization | Beginner | Python · Pandas · Seaborn · Jupyter |
+| [ml-fundamentals](https://github.com/Anshara-Shamim/ml-fundamentals) | Core ML concepts with visual notebooks probability, distributions, regression and more | Intermediate | Python · NumPy · Matplotlib · SciPy · Jupyter |
 
 ### Final Year Project
 
